@@ -25,6 +25,7 @@ namespace ConvertAll
             // Convert All
             openingIntervals = timeWindows.ConvertAll(new Converter<TimeWindow, Interval>(TimeWindowToInterval)).ToArray();
 
+            // Check Output
             foreach(var item in openingIntervals)
                 Console.WriteLine("Opening: "+item.Start + ", Closing: " + item.End);
         }
@@ -36,7 +37,7 @@ namespace ConvertAll
         public DateTime End {get;set;}
     }
 
-    // Self Definded Class
+    // Selfdefinded Class
     class TimeWindow
     {
         public DateTime From {get;set;}
