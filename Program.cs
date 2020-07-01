@@ -21,6 +21,7 @@ namespace ConvertAll
         {
             // Add Time Windows
             timeWindows.Add(new TimeWindow(){From = DateTime.Now ,To = (DateTime)DateTime.Now.AddHours(2)});
+            timeWindows.Add(new TimeWindow(){From = (DateTime)DateTime.Now.AddHours(2),To = (DateTime)DateTime.Now.AddHours(4)});
 
             // Convert All
             openingIntervals = timeWindows.ConvertAll(new Converter<TimeWindow, Interval>(TimeWindowToInterval)).ToArray();
