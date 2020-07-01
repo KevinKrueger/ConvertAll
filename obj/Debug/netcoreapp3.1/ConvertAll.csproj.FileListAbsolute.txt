@@ -1,0 +1,12 @@
+/Users/kevinkruger/Desktop/Projects/C#/ConvertAll/bin/Debug/netcoreapp3.1/ConvertAll.deps.json
+/Users/kevinkruger/Desktop/Projects/C#/ConvertAll/bin/Debug/netcoreapp3.1/ConvertAll.runtimeconfig.json
+/Users/kevinkruger/Desktop/Projects/C#/ConvertAll/bin/Debug/netcoreapp3.1/ConvertAll.runtimeconfig.dev.json
+/Users/kevinkruger/Desktop/Projects/C#/ConvertAll/bin/Debug/netcoreapp3.1/ConvertAll.dll
+/Users/kevinkruger/Desktop/Projects/C#/ConvertAll/bin/Debug/netcoreapp3.1/ConvertAll.pdb
+/Users/kevinkruger/Desktop/Projects/C#/ConvertAll/obj/Debug/netcoreapp3.1/ConvertAll.csprojAssemblyReference.cache
+/Users/kevinkruger/Desktop/Projects/C#/ConvertAll/obj/Debug/netcoreapp3.1/ConvertAll.AssemblyInfoInputs.cache
+/Users/kevinkruger/Desktop/Projects/C#/ConvertAll/obj/Debug/netcoreapp3.1/ConvertAll.AssemblyInfo.cs
+/Users/kevinkruger/Desktop/Projects/C#/ConvertAll/obj/Debug/netcoreapp3.1/ConvertAll.csproj.CoreCompileInputs.cache
+/Users/kevinkruger/Desktop/Projects/C#/ConvertAll/obj/Debug/netcoreapp3.1/ConvertAll.dll
+/Users/kevinkruger/Desktop/Projects/C#/ConvertAll/obj/Debug/netcoreapp3.1/ConvertAll.pdb
+/Users/kevinkruger/Desktop/Projects/C#/ConvertAll/obj/Debug/netcoreapp3.1/ConvertAll.genruntimeconfig.cache

@@ -1,0 +1,3 @@
+{
+    "code-runner.executorMap": { "csharp": "dotnet run Program.cs" }
+}
